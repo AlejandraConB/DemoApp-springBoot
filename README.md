@@ -1,5 +1,5 @@
 ## 🖥️ Tecnologías Utilizadas:
 
 - Java
-- Intelligi
+- IntelliJ IDEA
 </br>
